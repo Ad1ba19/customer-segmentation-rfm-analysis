@@ -1,0 +1,10 @@
+segment,customers,revenue,avg_recency_days,avg_orders,avg_spend,customer_share_pct,revenue_share_pct
+Champions,668,845933.3,12.3,4.9,1266.4,5.2,21.9
+Loyal Customers,1207,561228.0,13.0,2.0,465.0,9.3,14.5
+At Risk Repeat Buyers,915,399597.6,31.7,2.3,436.7,7.1,10.3
+New High-Value,1004,431477.0,7.1,1.0,429.8,7.8,11.2
+New Customers,1272,59092.7,7.4,1.0,46.5,9.8,1.5
+Promising,2312,586973.7,18.7,1.0,253.9,17.9,15.2
+Big Spenders Slipping,863,566023.6,32.9,1.0,655.9,6.7,14.6
+Hibernating,2281,212260.8,28.1,1.0,93.1,17.6,5.5
+Lost,2404,204610.9,37.9,1.0,85.1,18.6,5.3
