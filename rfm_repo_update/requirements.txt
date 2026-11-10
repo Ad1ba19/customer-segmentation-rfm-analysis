@@ -1,7 +1,0 @@
-pandas>=2.0
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
-pytest
