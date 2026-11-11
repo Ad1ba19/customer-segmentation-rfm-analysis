@@ -1,5 +1,7 @@
 # Customer Segmentation with RFM Analysis
 
+**Customer Analytics · Data Engineering**
+
 Segments **12,926 customers** of an online electronics store into nine actionable groups using Recency, Frequency and Monetary (RFM) analysis, then shows where revenue is concentrated and which customers are worth winning back.
 
 The pipeline is a tested Python module (`src/rfm.py`) with a command-line entry point, a notebook that tells the story with charts, and a one-row-per-customer export that can feed a CRM or BI dashboard.
